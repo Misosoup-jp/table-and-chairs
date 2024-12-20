@@ -1,0 +1,9 @@
+{
+  "parent": "table_and_chair:custom/birchchair",
+  "textures": {
+    "all": "table_and_chair:block/texture",
+    "particle": "table_and_chair:block/texture",
+    "2": "table_and_chair:block/texture"
+  },
+  "render_type": "solid"
+}

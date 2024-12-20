@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_log"
+    },
+    "b": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "table_and_chair:oakchair",
+    "count": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "table_and_chair:birchchair",
+    "table_and_chair:oakchair",
+    "table_and_chair:birchtable",
+    "table_and_chair:oaktable"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "table_and_chair:block/oakchair"
+    },
+    "facing=east": {
+      "model": "table_and_chair:block/oakchair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "table_and_chair:block/oakchair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "table_and_chair:block/oakchair",
+      "y": 270
+    }
+  }
+}

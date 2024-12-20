@@ -1,0 +1,9 @@
+{
+  "parent": "table_and_chair:custom/oakchair",
+  "textures": {
+    "all": "table_and_chair:block/oakchair",
+    "particle": "table_and_chair:block/oakchair",
+    "3": "table_and_chair:block/oakchair"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "table_and_chair:blocks/birchchair",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "table_and_chair:birchchair"
+        }
+      ]
+    }
+  ]
+}
